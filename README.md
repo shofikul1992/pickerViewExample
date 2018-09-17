@@ -3,13 +3,13 @@
 # UIPickerView Example swift.
 ![Preview](./src/assets/icon.png)
 
-#### UIPickerView Example swift. 
 
 
 ### ViewController Class.
 
-,,, import UIKit
+,,, 
 
+import UIKit
 class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
     
 
@@ -48,8 +48,7 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         print(currencyArray[row])
     }
     
-}
-,,,
+} ,,,
 
 ![Preview](./src/assets/inCollage_20180212_202916674.jpg)
 
