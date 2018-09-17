@@ -7,8 +7,7 @@
 
 ### ViewController Class.
 
-,,, 
-
+```
 import UIKit
 class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
     
@@ -48,7 +47,9 @@ class ViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDele
         print(currencyArray[row])
     }
     
-} ,,,
+} 
+
+```
 
 ![Preview](./src/assets/inCollage_20180212_202916674.jpg)
 
