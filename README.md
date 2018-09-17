@@ -1,9 +1,7 @@
 # Artisan's Story
 ![Preview](./src/assets/icon.png)
 
-#### Artisan's story is a social app with a universal timeline. Any registered user can share their thougts via this. Now there is no interaction between single feed'.  In future there will be some like like, comment. 
-
-Download the APK : [Installable APK](https://github.com/ishraqe/react-native-blog/raw/master/apk/app-release.apk)
+#### UIPickerView Example swift. 
 
 ![Preview](./src/assets/inCollage_20180212_202916674.jpg)
 
